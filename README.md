@@ -1,4 +1,4 @@
-This repository contains the data and R code necessary to reproduce the analysis presented in the bachelor thesis, Who Gains from Economic Growth in Georgia? An Analysis of Income Distribution and Welfare Outcomes, 2004-2024.
+This repository contains the data and R code necessary to reproduce the analysis presented in the bachelor thesis, "Who Gains from Economic Growth in Georgia? An Analysis of Income Distribution and Welfare Outcomes, 2004-2024".
 
 Abtract: 
 This thesis moves beyond Georgia’s stable economic growth for the past two decades and investigates how growth has been distributed among different percentiles of the population. To achieve this, the study employs a set of quantitative frameworks, along with a periodisation strategy that decomposes 
